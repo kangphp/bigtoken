@@ -6,7 +6,7 @@ pkg install php -y<br>
 pkg install git -y<br>
 git clone https://github.com/kangphp/bigtoken.git<br>
 cd bigtoken<br>
-php bigtoken.php<br>
+php bigtoken.php<br><br>
 
 Kontak :<br>
 Instagram : https://instagram.com/theo.artng<br>
