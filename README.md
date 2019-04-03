@@ -10,7 +10,7 @@ php bigtoken.php<br><br>
 <hr>
 command prompt windows<br>
 php bigtoken.php<br>
-<hr><br>
+<hr>
 
 Kontak :<br>
 Instagram : https://instagram.com/theo.artng<br>
